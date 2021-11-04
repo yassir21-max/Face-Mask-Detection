@@ -13,12 +13,13 @@ port/retrait du masque et affichage du pronostic.
 ## Working 
 
 ### With Mask
+![mask2](https://user-images.githubusercontent.com/83836471/140391943-8983febb-f618-4db9-9ca2-3d547fce7350.PNG)
 
-![image](mask2.png)
 
 ### No Mask
 
-![image](nomask.png)
+![nomask](https://user-images.githubusercontent.com/83836471/140391957-1caba983-13c8-4eac-89fe-c1ccca4c34a3.PNG)
+
 
 
 
