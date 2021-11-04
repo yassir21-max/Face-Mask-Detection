@@ -14,7 +14,7 @@ port/retrait du masque et affichage du pronostic.
 
 ### With Mask
 
-![image](mask.png)
+![image](mask2.png)
 
 ### No Mask
 
